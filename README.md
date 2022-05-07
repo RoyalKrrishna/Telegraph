@@ -30,3 +30,6 @@ Give a ⭐️ if this project helped you!
 
 📝 Copyright © 2021 [Marvellous Kolawole](https://github.com/Marvellous-Kolawole).<br />
 This project is [MIT](./LICENSE) licensed.
+
+### Easy Way
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RoyalKrrishna/Telegraph)
